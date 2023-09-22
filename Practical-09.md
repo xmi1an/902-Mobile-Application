@@ -6,7 +6,7 @@
 
 Create an android program that will play a media file from the memory card.
 
-#### Education Steps
+#### Steps
 
 1. Create a new Android project in Android Studio.
 2. Open the `activity_main.xml` layout file.

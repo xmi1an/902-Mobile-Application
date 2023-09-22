@@ -6,7 +6,7 @@
 
 Create an android application to read a file from the sdcard and display that file content on the screen.
 
-#### Education Steps
+#### Steps
 
 1. Create a new Android project in Android Studio.
 2. Open the `activity_main.xml` layout file.

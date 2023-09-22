@@ -6,7 +6,7 @@
 
 Create an android program that will read phonebook contacts using content providers and display them in a list.
 
-#### Education Steps
+#### Steps
 
 1. Create a new Android project in Android Studio.
 2. Open the `activity_main.xml` layout file.

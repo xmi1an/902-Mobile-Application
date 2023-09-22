@@ -6,7 +6,7 @@
 
 Create an android program to send a message between two emulators and read messages from any one emulator (mobile).
 
-#### Education Steps
+#### Steps
 
 1. Create a new Android project in Android Studio.
 2. Open the `activity_main.xml` layout file.

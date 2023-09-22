@@ -6,7 +6,7 @@
 
 Create an android program that will display the use of a menu that will change the color of the background screen after selecting a menu option.
 
-#### Education Steps
+#### Steps
 
 1. Create a new Android project in Android Studio.
 2. Open the `activity_main.xml` layout file.

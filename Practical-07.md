@@ -6,7 +6,7 @@
 
 Create an android program that will have a UI where the main screen has a list of cars. On selecting any car, the next screen will display the number of cars in the gallery with car information.
 
-#### Education Steps
+#### Steps
 
 1. Create a new Android project in Android Studio.
 2. Open the `activity_main.xml` layout file.
