@@ -1,6 +1,4 @@
-
 ## 902: Mobile Application
-[Practical List]
 
 1.	Create an android program that will display “Hello World” in the middle of the screen with red colour and also implement several callback events of activity class.
 2.	Create an android program that will display login functionality where username (EmailID) and password should be validated. If username/password will be wrong login button remain disabled otherwise move to next screen (intent) with welcome (username) message.
